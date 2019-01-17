@@ -30,11 +30,10 @@ github_username:    SiwenZheng
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-#permalink: pretty
-#paginate: 10
-#exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true
 
 
 # Gems
@@ -85,8 +84,8 @@ kramdown:
 
 
 # Featured Tags
-# featured-tags: true                     # 是否使用首页标签
-# featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-tags: false                    # 是否使用首页标签
+featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
 
