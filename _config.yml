@@ -1,5 +1,5 @@
 # Site settings
-title: 郑思文's Blog
+title: Siwen Blog
 SEOTitle: 思文的博客 | Siwen Blog
 header-img: img/home-bg-SanFrancisco.jpg
 email: siwenzheng@outlook.com
@@ -59,7 +59,7 @@ kramdown:
  disqus_username: siwenzheng
 
 # Gitalk
- gitalk:
+gitalk: 
   enable: true    #是否开启Gitalk评论
   clientID: 3afcf6dd2e2ca1a8c779                           #生成的clientID
   clientSecret: 46d104a520039165f094c2636c35a1384554e18f
