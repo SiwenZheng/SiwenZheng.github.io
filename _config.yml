@@ -56,18 +56,18 @@ kramdown:
 
 # 评论系统
 #Disqus（https://disqus.com）
-disqus_username: siwenzheng
+#disqus_username: siwenzheng
 
 # Gitalk
-#gitalk: 
-#  enable: true    #是否开启Gitalk评论
- # clientID: 3afcf6dd2e2ca1a8c779                           #生成的clientID
-  #clientSecret: 46d104a520039165f094c2636c35a1384554e18f
+gitalk: 
+  enable: true    #是否开启Gitalk评论
+  clientID: 3afcf6dd2e2ca1a8c779                           #生成的clientID
+  clientSecret: 46d104a520039165f094c2636c35a1384554e18f
   #生成的clientSecret
-  #repo: siwenzheng.github.io    #仓库名称
-  #owner: siwenzheng    #github用户名
-  #admin: siwenzheng
-  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  repo: siwenzheng.github.io    #仓库名称
+  owner: siwenzheng    #github用户名
+  admin: siwenzheng
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
