@@ -1,5 +1,5 @@
 # Site settings
-title: "Siwen Blog"
+title: Siwen Blog
 SEOTitle: 思文的博客 | Siwen Blog
 header-img: img/home-bg-SanFrancisco.jpg
 email: siwenzheng@outlook.com
@@ -55,7 +55,7 @@ kramdown:
 
 
 # 评论系统
- Disqus（https://disqus.com）
+ #Disqus（https://disqus.com/）
  disqus_username: siwenzheng
 
 # Gitalk
